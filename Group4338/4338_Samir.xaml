@@ -1,0 +1,8 @@
+﻿echo '<Window x:Class="WpfApp.4335_Liza"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Info" Height="200" Width="300">
+    <Grid>
+        <TextBlock Text="Автор: Сабирзянов Самир" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    </Grid>
+</Window>' > Template43XX/4338_Samir.xaml

@@ -7,4 +7,9 @@ namespace Group4338
         public MainWindow()
             => InitializeComponent();
     }
+ private void ShowAuthorButton_Click(object sender, RoutedEventArgs e)
+        {
+            var authorWindow = new _4338_Samir();
+            authorWindow.ShowDialog();
+        }
 }
